@@ -1,4 +1,0 @@
-I'm sorry but I don't think I understood the Interactive task
-All I did was making a button and a heading that changes when clicking that button
-
-I'm not realy sure if that's all I had to do.
